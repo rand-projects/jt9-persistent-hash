@@ -17,3 +17,6 @@ as described in the INSTALL file.
 Just a few notes. If you change bands or are restarting, you should remove the file
 before continuing. Also, if you are using something like hermes-light with multiple
 receivers, you need to make sure that each receiver is using a different hash file.
+
+Other patches for other versions are included. Be sure to rename the patch file to
+'wsjtx.patch' and put in the proper place.
