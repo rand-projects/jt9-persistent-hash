@@ -6,7 +6,7 @@ the hash information.
 
 Typical usage: 'jt9 -P hash.dat -8 -d 3 foo.wav'
 
-WSJT-X 2.6.1 can be obtained at https:/wsjt.sourceforge.io
+WSJT-X 2.6.1 can be obtained at https://wsjt.sourceforge.io
 
 To use this, you need to build the system from source. Obtain the wsjtx-2.6.1.tgz
 file and build following the instructions in the INSTALL file. After the step where you
